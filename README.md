@@ -1,4 +1,4 @@
-# 🌳 Árvore B+ Visualizer (Premium)
+# 🌳 Árvore B+
 
 Este projeto é um **Visualizador Interativo de Árvore B+** que combina o poder e eficiência do **C** (núcleo da estrutura de dados) com a flexibilidade do **Python/FastAPI** (servidor e ponte ctypes) e a elegância de uma interface web moderna renderizada com **D3.js**.
 
